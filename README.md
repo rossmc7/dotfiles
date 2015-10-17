@@ -81,18 +81,11 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 ./brew.sh
 ```
 
-## Feedback
-
-Suggestions/improvements
-[welcome](https://github.com/mathiasbynens/dotfiles/issues)!
-
-## Author
+## Thanks to…
 
 | [![twitter/mathias](http://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](http://twitter.com/mathias "Follow @mathias on Twitter") |
 |---|
 | [Mathias Bynens](https://mathiasbynens.be/) |
-
-## Thanks to…
 
 * @ptb and [his _OS X Lion Setup_ repository](https://github.com/ptb/Mac-OS-X-Lion-Setup)
 * [Ben Alman](http://benalman.com/) and his [dotfiles repository](https://github.com/cowboy/dotfiles)
